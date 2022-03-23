@@ -10,3 +10,11 @@ typeof (1 + "3");
 typeof (1 \* "a");
 typeof null;
 ```
+string
+undefined
+string
+number
+number
+string
+number
+object
